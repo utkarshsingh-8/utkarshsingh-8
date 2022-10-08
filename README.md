@@ -7,13 +7,13 @@
 
 ### About Me
 
--🌱 Interested in Web Development, Web3 and BlockChain.
+- 🌱 Interested in Web Development, Web3 and BlockChain.
 
--⚡ Competitive Programming Enthusiast
+- ⚡ Competitive Programming Enthusiast
 
--😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him
 
--⚡ Fun fact: I love writing on platforms like Quora.
+- ⚡ Fun fact: I love writing on platforms like Quora.
 
 
 Ever since I was in high school, software development has always fascinated me. Being able to get the computer to do whatever I wanted, just by typing in these funny little symbols, limited only by my own imagination and ingenuity.
