@@ -1,6 +1,6 @@
 ### Hi there , I`m Utkarsh Singh 👋
 
-- 🔭 I’m currently pursuing B.Tech  ...
+- 🔭 I’m currently pursuing ... B.Tech in IT
 - 🌱 I’m currently learning ...Blockchain
 
 ### About Me
