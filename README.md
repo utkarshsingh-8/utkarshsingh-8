@@ -21,13 +21,11 @@ Passionate about clean code and best practices to deliver efficient and maintain
 Actively learning and exploring new web technologies to stay up-to-date with the rapidly evolving industry.
 
 ### 🌐 Portfolio Website:
-Feel free to explore my portfolio website to dive deeper into my projects and learn more about my journey as a web developer. [Portfolio Link]
+Feel free to explore my portfolio website to dive deeper into my projects and learn more about my journey as a web developer.
 
 Let's connect and collaborate to build the next generation of captivating web experiences!
 
 ### 📫 Contact:
-You can reach me via email at [utkarshsinghthakur1476@gmail.com] or connect with me on LinkedIn [https://www.linkedin.com/in/utkarsh-singh--/].
-
 There's certainly yet more to learn, yet more problems to solve, and yet more to build. And for this, I am very grateful.
 - 📫 How to reach me **utkarshsinghthakur1476@gmail.com**
 
