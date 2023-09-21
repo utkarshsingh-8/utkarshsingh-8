@@ -4,18 +4,17 @@ I'm an aspiring software enthusiast and final-year student excited to embark on 
 
 ### 🚀 Skills:
 
-• Programming Languages: C, C++, Ruby.  <br>
+• Programming Languages: C, C++  <br>
 • Front-end Development: HTML, CSS, JavaScript.  <br>
 • Back-end Development: Node.js, Express.js  <br>
 • Databases/Cloud: MongoDB, MySQL. <br>
-• UI/UX Design: Creating intuitive user interfaces and delightful user experiences. <br>
 • Responsive Design: Ensuring that websites look and work great on various devices and screen sizes. <br>
 
 ### 🛠️ Tech Stack:
 
 • Front-end Frameworks: React. <br>
-• Back-end Frameworks: Express.js, Ruby on Rails. <br>
-• Styling: SASS/SCSS, Tailwind CSS. <br> 
+• Back-end Frameworks: Express.js <br>
+• Styling: CSS. <br> 
 • Software: VS Code, Git, GitHub, CodePen, Replit <br> 
 
 ### 🔥 Highlights:
