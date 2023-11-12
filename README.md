@@ -29,7 +29,7 @@ Let's connect and collaborate to build the next generation of captivating web ex
 
 ### 📫 Contact:
 There's certainly yet more to learn, yet more problems to solve, and yet more to build. And for this, I am very grateful.
-- 📫 How to reach me **utkarshsinghthakur1476@gmail.com**
+- 📫 How to reach me **utkarshsingh4345@gmail.com**
 
 ## Let's Connect
 
