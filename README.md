@@ -1,19 +1,19 @@
 ### 👋 Welcome to my GitHub profile!
 
-I'm an aspiring software enthusiast and final-year student excited to embark on a journey in the world of coding. With a solid educational foundation and a hunger for learning, I'm eager to contribute, collaborate, and grow as a developer. With a strong foundation in HTML, CSS, JavaScript, React, Node.js, and Express.js (MERN Stack), I specialize in crafting dynamic and responsive websites that not only look great but also function seamlessly.
+I'm a dedicated back-end developer with a strong foundation in crafting efficient, scalable systems that power dynamic and responsive websites. With expertise in HTML, CSS, JavaScript, React, Node.js, and Express.js (MERN Stack), I focus on creating seamless digital experiences while continuously learning and growing in the development field. I'm passionate about contributing to impactful projects and collaborating with teams to solve real-world problems.
 
 ### 🚀 Skills:
 
-• Programming Languages: C, C++  <br>
-• Front-end Development: HTML, CSS, JavaScript.  <br>
-• Back-end Development: Node.js, Express.js  <br>
+• Programming Languages: C, C++ , Ruby <br>
+• Front-end Development: HTML, CSS, JavaScript, React <br>
+• Back-end Development: Node.js, Express.js, Ruby-on-Rails  <br>
 • Databases/Cloud: MongoDB, MySQL. <br>
 • Responsive Design: Ensuring that websites look and work great on various devices and screen sizes. <br>
 
 ### 🛠️ Tech Stack:
 
 • Front-end Frameworks: React. <br>
-• Back-end Frameworks: Express.js <br>
+• Back-end Frameworks: Express.js, Ruby-on-Rails <br>
 • Styling: CSS. <br> 
 • Software: VS Code, Git, GitHub, CodePen, Replit <br> 
 
