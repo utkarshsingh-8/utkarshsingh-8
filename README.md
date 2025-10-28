@@ -35,7 +35,7 @@ There's certainly yet more to learn, yet more problems to solve, and yet more to
 
 You can find me on the following platforms:
 
-- 🌐 **[Website](https://linktr.ee/thakur_utkarsh)**: Check out my personal website for blog posts, project updates, and more.
+- 🌐 **[Website](https://utkarsh-portfolio-three.vercel.app/)**: Check out my personal website for blog posts, project updates, and more.
 - 📧 **[Email](mailto:utkarshsingh4345@gmail.com)**: Send me an email for inquiries, collaborations, or just to say hi.
 - 🐦 **[Twitter](https://twitter.com/yourhandle)**: Follow me on Twitter for tech-related tweets and updates.
 - 💼 **[LinkedIn](https://www.linkedin.com/in/utkarsh-singh--/)**: Connect with me on LinkedIn for professional networking.
