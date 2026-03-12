@@ -1,104 +1,100 @@
-# Hi, I'm Utkarsh Singh 👋  
-### Backend Engineer | Scalable Systems | Microservices | AWS
+# Hi 👋, I'm Utkarsh Singh
 
-I am a backend-focused software engineer with hands-on experience in designing and building scalable, high-performance systems. I specialize in REST APIs, microservices, real-time systems, and cloud-native backend solutions. I enjoy solving complex engineering problems and building systems that scale reliably in production.
+🚀 **AI Engineer | LLM Applications | Machine Learning | Backend Systems**
 
----
+I am an **AI Engineer with a strong backend engineering background**, building intelligent applications powered by **Machine Learning, Large Language Models (LLMs), and scalable backend systems**.
 
-## About Me
-
-- Backend Engineer with experience in **Node.js-based systems**
-- Strong understanding of **microservices and event-driven architecture**
-- Hands-on experience with **AWS, Docker, Redis, and messaging systems**
-- Focused on **clean architecture, performance, and scalability**
-- Actively preparing for **product-based company roles**
+I specialize in developing **production-ready AI applications**, integrating **LLMs, vector databases, and AI-powered APIs** into scalable systems.
 
 ---
 
-## Skills
+## 🧠 AI / Machine Learning Stack
 
-### Programming Languages
-- JavaScript (ES6+)
-- C++
-
-### Backend Development
-- Node.js
-- Express.js
-- RESTful API design
-- Authentication & authorization using JWT
-- API performance optimization
-- Mongoose
-- Prisma / Sequelize (basic)
-
-### Databases & Caching
-- MongoDB
-- MySQL
-- Redis (caching and Pub/Sub)
-
-### Messaging & Event-Driven Systems
-- RabbitMQ
-- Redis Pub/Sub
-- Asynchronous processing
-- Event-driven architecture
-
-### Real-Time Systems
-- WebSockets
-- Real-time chat and notifications
-- Presence and message delivery handling
-
-### Cloud & DevOps
-- AWS (EC2, S3, Lambda, SQS)
-- Docker
-- CI/CD pipelines
-- GitHub Actions
-- Nginx
-
-### Testing & API Documentation
-- Swagger / OpenAPI
-- Jest and Supertest (basic)
-
-### Architecture & Concepts
-- Microservices architecture
-- System design fundamentals
-- Caching strategies
-- Scalability patterns
-- Database indexing and query optimization
+* Python
+* Machine Learning
+* Deep Learning Fundamentals
+* Large Language Models (LLMs)
+* Prompt Engineering
+* LangChain
+* Retrieval Augmented Generation (RAG)
+* Vector Databases
+* AI Agents
+* NLP
 
 ---
 
-## Experience Highlights
+## ⚙️ Backend Engineering
 
-- Built backend modules for a **US-based food delivery platform**, focusing on location-based discovery and real-time order tracking
-- Optimized APIs and database queries, reducing response times by up to **40%**
-- Designed and implemented **microservices** communicating via message brokers
-- Worked on **real-time chat and notification systems** with Redis and WebSockets
-- Implemented asynchronous workflows using **AWS SQS and Lambda**
-
----
-
-## Projects
-
-Explore my repositories to find:
-- Microservices-based backend systems
-- Real-time chat and notification services
-- Event-driven architectures using message queues
-- Production-style REST API implementations
+* Node.js
+* Express.js
+* REST API Development
+* Microservices Architecture
+* Authentication (JWT / OAuth)
+* Event Driven Systems
 
 ---
 
-## Portfolio
+## 🗄 Databases
 
-Portfolio Website:  
+* MongoDB
+* MySQL
+* Redis
+* Vector Databases (Pinecone / Weaviate / FAISS)
+
+---
+
+## ☁️ Cloud & DevOps
+
+* AWS (EC2, S3, Lambda)
+* Docker
+* CI/CD Pipelines
+* GitHub Actions
+* Nginx
+
+---
+
+## 🚀 AI Projects
+
+Some of the projects you'll find in my repositories:
+
+* 🤖 LLM-powered AI Assistants
+* 📄 Document Question Answering Systems
+* 🔎 RAG based AI applications
+* 🧠 AI-powered APIs
+* ⚡ Scalable backend services
+
+---
+
+## 📊 GitHub Stats
+
+![Utkarsh GitHub stats](https://github-readme-stats.vercel.app/api?username=utkarshsingh-8\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshsingh-8\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📚 Currently Learning
+
+* Advanced Machine Learning
+* LLM System Design
+* AI Infrastructure
+* AI Agents & Autonomous Systems
+
+---
+
+## 🌐 Portfolio
+
+Portfolio Website
 https://utkarsh-portfolio-three.vercel.app/
 
 ---
 
-## Contact
+## 📫 Connect With Me
 
-- Email: utkarshsingh4345@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/utkarsh-singh--/  
-- GitHub: https://github.com/utkarshsingh-8  
+Email: [utkarshsingh4345@gmail.com](mailto:utkarshsingh4345@gmail.com)
+LinkedIn: https://www.linkedin.com/in/utkarsh-singh--/
+GitHub: https://github.com/utkarshsingh-8
 
 ---
 
-Focused on backend engineering. Building systems that scale. Always learning.
+⚡ *Building intelligent systems powered by Artificial Intelligence.*
