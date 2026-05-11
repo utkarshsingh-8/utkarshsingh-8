@@ -1,100 +1,145 @@
-# Hi 👋, I'm Utkarsh Singh
+<div align="center">
 
-🚀 **AI Engineer | LLM Applications | Machine Learning | Backend Systems**
+<!-- BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020409,50:1e1b4b,100:0f0c29&height=100&section=header&animation=fadeIn" width="100%"/>
 
-I am an **AI Engineer with a strong backend engineering background**, building intelligent applications powered by **Machine Learning, Large Language Models (LLMs), and scalable backend systems**.
+<!-- ANIMATED BOT — upload bot.svg to your profile repo root and this will work -->
+<img src="./bot.svg" width="380" height="380" alt="AI Bot"/>
 
-I specialize in developing **production-ready AI applications**, integrating **LLMs, vector databases, and AI-powered APIs** into scalable systems.
+<!-- TYPING SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=%3E+Building+CAR-T+AI+Agent+Platform;%3E+BioMistral+7B+%E2%80%94+eval_loss+1.026+%E2%80%92+1.014;%3E+FAISS+%E2%86%92+BioMistral+%E2%86%92+Groq+%5B3-layer+RAG%5D;%3E+AutoResearch%3A+autonomous+hyperparameter+agent;%3E+Production+ML+%C2%B7+Medical+AI+%C2%B7+Backend+Systems)](https://github.com/utkarshsingh-8)
 
----
+<br/>
 
-## 🧠 AI / Machine Learning Stack
+# Hi, I'm **Utkarsh Singh** 👋
 
-* Python
-* Machine Learning
-* Deep Learning Fundamentals
-* Large Language Models (LLMs)
-* Prompt Engineering
-* LangChain
-* Retrieval Augmented Generation (RAG)
-* Vector Databases
-* AI Agents
-* NLP
+### `AI Engineer` · Cellogen Therapeutics · Medical ML Systems
 
----
+<br/>
 
-## ⚙️ Backend Engineering
+[![Portfolio](https://img.shields.io/badge/◆_Portfolio-020409?style=for-the-badge&logo=vercel&logoColor=A78BFA)](https://utkarsh-portfolio-three.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-020409?style=for-the-badge&logo=github&logoColor=white)](https://github.com/utkarshsingh-8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-020409?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/utkarshsingh-8)
+[![Views](https://komarev.com/ghpvc/?username=utkarshsingh-8&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/utkarshsingh-8)
 
-* Node.js
-* Express.js
-* REST API Development
-* Microservices Architecture
-* Authentication (JWT / OAuth)
-* Event Driven Systems
+<br/>
 
----
+![BioMistral 7B](https://img.shields.io/badge/🧬_BioMistral_7B-1e1b4b?style=flat-square)
+![3-Layer RAG](https://img.shields.io/badge/⚡_3--Layer_RAG-1a1f3d?style=flat-square)
+![LoRA Fine-tune](https://img.shields.io/badge/🔥_LoRA_Fine--tune-1a2e1a?style=flat-square)
+![AutoResearch](https://img.shields.io/badge/🤖_AutoResearch_Agent-2a1a3d?style=flat-square)
+![Ragas Evals](https://img.shields.io/badge/📊_Ragas_Evals-1a1f3d?style=flat-square)
 
-## 🗄 Databases
-
-* MongoDB
-* MySQL
-* Redis
-* Vector Databases (Pinecone / Weaviate / FAISS)
+</div>
 
 ---
 
-## ☁️ Cloud & DevOps
+## `whoami`
 
-* AWS (EC2, S3, Lambda)
-* Docker
-* CI/CD Pipelines
-* GitHub Actions
-* Nginx
+```python
+engineer = {
+    "name"    : "Utkarsh Singh",
+    "role"    : "AI Engineer @ Cellogen Therapeutics",
+    "since"   : "March 2026",
+    "focus"   : ["Medical AI", "RAG Systems", "LLM Fine-tuning", "Agentic Pipelines"],
+    "prev"    : ["MindNerves Technologies — SmoochBox US", "SVAM International — US Event Platform"],
+    "stack"   : ["Python", "PyTorch", "BioMistral 7B", "LangChain", "FastAPI", "AWS"],
+    "loc"     : "India 🇮🇳",
+}
+```
+
+I build production ML systems — retrieval pipelines with tracked eval metrics, fine-tuned biomedical LLMs, and backend services that handle live traffic. 1.5+ years of backend engineering on US products before moving full-time into AI.
 
 ---
 
-## 🚀 AI Projects
+## ⚡ Current Build
 
-Some of the projects you'll find in my repositories:
+### CAR-T AI Agent Platform · Cellogen Therapeutics
 
-* 🤖 LLM-powered AI Assistants
-* 📄 Document Question Answering Systems
-* 🔎 RAG based AI applications
-* 🧠 AI-powered APIs
-* ⚡ Scalable backend services
+> Multi-portal medical AI for CAR-T cell therapy research and clinical support.
+
+| # | Layer | Component | Detail |
+|---|-------|-----------|--------|
+| 01 | Retrieval | `FAISS` dense index | Layer 1 — candidate fetch |
+| 02 | Reranking | `BioMistral 7B` | Layer 2 — domain-aware rerank |
+| 03 | Fallback | `Groq API` | Layer 3 — low-latency escape hatch |
+| 04 | Training | LoRA fine-tune on CAR-T corpus | eval_loss `1.026 → 1.014` |
+| 05 | Agent | `AutoResearch` | Autonomous hyperparameter search — no human loop |
+| 06 | Eval | `Ragas` | Faithfulness + answer-relevancy gated per layer |
+
+---
+
+## 🛠 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Hybrid RAG Service](https://github.com/utkarshsingh-8)
+`Python` · `FastAPI` · `LangChain` · `Pinecone` · `Ragas`
+
+- BM25 + Pinecone dual-index, fused via reciprocal rank fusion
+- Ragas eval suite gated in CI (faithfulness, context precision)
+- Async FastAPI with per-request latency instrumentation
+- Dockerized, AWS ECS deployable
+
+</td>
+<td width="50%" valign="top">
+
+### [E-commerce Microservices](https://github.com/utkarshsingh-8)
+`Node.js` · `RabbitMQ` · `PostgreSQL` · `Redis`
+
+- RabbitMQ async bus: placed → confirmed → dispatched
+- Redis-backed cart and session cache under concurrent load
+- PostgreSQL with connection pooling
+- Each service independently containerized
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 Stack
+
+<div align="center">
+
+**ML / AI**
+
+[![Skills](https://skillicons.dev/icons?i=python,pytorch,fastapi,tensorflow&theme=dark)](https://skillicons.dev)
+
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![PEFT/LoRA](https://img.shields.io/badge/PEFT_%2F_LoRA-7c3aed?style=for-the-badge)
+![BioMistral 7B](https://img.shields.io/badge/BioMistral_7B-6d28d9?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0064A5?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+![Ragas](https://img.shields.io/badge/Ragas_Evals-4f46e5?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+**Backend & Infra**
+
+[![Skills](https://skillicons.dev/icons?i=nodejs,postgres,redis,rabbitmq,docker,aws&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Utkarsh GitHub stats](https://github-readme-stats.vercel.app/api?username=utkarshsingh-8\&show_icons=true\&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshsingh-8\&layout=compact\&theme=tokyonight)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=utkarshsingh-8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&rank_icon=github"/>
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshsingh-8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
 
----
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshsingh-8&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true"/>
 
-## 📚 Currently Learning
-
-* Advanced Machine Learning
-* LLM System Design
-* AI Infrastructure
-* AI Agents & Autonomous Systems
+</div>
 
 ---
 
-## 🌐 Portfolio
-
-Portfolio Website
-https://utkarsh-portfolio-three.vercel.app/
-
----
-
-## 📫 Connect With Me
-
-Email: [utkarshsingh4345@gmail.com](mailto:utkarshsingh4345@gmail.com)
-LinkedIn: https://www.linkedin.com/in/utkarsh-singh--/
-GitHub: https://github.com/utkarshsingh-8
-
----
-
-⚡ *Building intelligent systems powered by Artificial Intelligence.*
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1e1b4b,100:020409&height=80&section=footer" width="100%"/>
+</div><img width="400" height="420" alt="bot" src="https://github.com/user-attachments/assets/70faee35-c9a1-44e7-9a2b-583519237584" />
