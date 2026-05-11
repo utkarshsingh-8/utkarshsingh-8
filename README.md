@@ -139,7 +139,3 @@ I build production ML systems — retrieval pipelines with tracked eval metrics,
 </div>
 
 ---
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1e1b4b,100:020409&height=80&section=footer" width="100%"/>
-</div><img width="400" height="420" alt="bot" src="https://github.com/user-attachments/assets/70faee35-c9a1-44e7-9a2b-583519237584" />
